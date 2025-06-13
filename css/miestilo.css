@@ -1,0 +1,69 @@
+.backcolor_nav{
+    background-color: #f6f8ed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.font_nav{
+    color: #4a91e1;
+    font-size: 23px;
+    text-align: center;
+}
+
+.nav_button{
+    background-color: #f15e2b;
+    color: #f6f8ed;
+}
+
+
+.nunito {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+  }
+_
+.yeseva-one-regular {
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.nunito_copyright{
+    font-size: 10px;
+}
+
+.backcolor_footer{
+    background-color: #f6f8ed;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.font_footerh3{
+    color: #4a91e1;
+}
+
+.font_footercuerpo{
+    color: #4a91e1;
+    font-size: 17px;
+}
+
+.iconos_footer{
+    color: #4a91e1;
+    font-size: 40px;
+}
+
+.iconos_footerdos{
+    color: #4a91e1;
+    font-size: 60px;
+    margin-right: 10px;
+}
+
+.font_footercuerpodos{
+    color: #4a91e1;
+    font-size: 18px;
+}
